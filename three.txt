@@ -2,5 +2,3 @@ three
 hello
 3
 33
-1
-Hello Three
